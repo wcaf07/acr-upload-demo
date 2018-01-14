@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WcafAcrCloud</string>
+    <string name="action_settings">Settings</string>
+    <string name="rec">Audio picker</string>
+</resources>
